@@ -1,28 +1,38 @@
 - company:
-    name: "Kommunicate"
-    url: "https://www.kommunicate.io"
-    logo: "/assets/images/logos/kommunicate.svg"
-    description: "Kommunicate is a human + bot hybrid platform for real-time, proactive, and personalized support for growing businesses."
+    name: "Wabash College"
+    logo: "/assets/images/logos/wabash.png"
+    description: "I attended Wabash College, where I became a member of the Malcolm X Institute of Black Studies, an organization who encouraged the inclusivity of diverse  backgrounds across campus, and an NCAA All-American Track & Field Athlete."
   positions:
-    - name: "Software Developer Intern"
-      type: "Internship"
-      from: 2021-12-08
-      to: 2022-03-08
+    - name: "Mechanical Engineering"
+      type: "B.S."
+      from: 2018-08-15
+      to: 2019-05-25
   bars:
-    top: 35%
+    top: 38%
+- company:
+    name: "Texas A&M University - Corpus Christi"
+    logo: "/assets/images/logos/tamucc.png"
+    description: "As a student-athlete, I completed my B.S. degree in mechanical engineering, graduating with Summa Cum Laude honors."
+  positions:
+    - name: "Mechanical Engineering"
+      type: "B.S."
+      from: 2019-08-08
+      to: 2023-05-20
+
+  bars:
+    top: 32%
+    bottom: 32%
 
 - company:
-    name: "BeyondWords"
-    url: "https://beyondwords.io"
-    logo: "/assets/images/logos/beyondwords.svg"
-    description: "BeyondWords is an AI voice and audio publishing platform that brings frictionless audio to writers, newsrooms, and businesses!"
+    name: "Cornell University"
+    logo: "/assets/images/logos/cornell.png"
+    description: "I am currently pursuing a M.Eng degree in Mechanical Engineering with a concentration in robotics."
   positions:
-    - name: "Frontend Engineer Intern"
-      type: "Part-time"
-      from: 2022-03-11
-      to: 2022-10-11
-    - name: "Software Developer"
-      type: "Part-time"
-      from: 2022-11-01
+    - name: "Mechanical Engineering - Robotics Concentration"
+      type: "M.Eng"
+      from: 2023-08-15
+      to: 2024-05-25
   bars:
-    bottom: 39%
+    top: 5%
+    bottom: 36%
+  

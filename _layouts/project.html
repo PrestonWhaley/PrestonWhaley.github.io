@@ -4,7 +4,7 @@ layout: default
 
 {% if page.hasThumbnail %}
 <img
-  loading="lazy" src="/assets/images/projects/{{ page.name | remove: '.md' }}.webp"
+  loading="lazy" src="/assets/images/projects/{{ page.name | remove: '.md' }}.gif"
   class="mx-auto rounded-xl{% if page.ignorePreviewAspect != true %} sm:aspect-video{% endif %}" />
 {% elsif page.youtube %}
 <iframe
