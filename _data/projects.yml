@@ -3,7 +3,7 @@ berry-bionic:
   excerpt: "Designed a robot skilled in navigating, identifying, and trimming leaf clusters in a testbed environment."
   stack: ["Python", "Arduino", "Fusion360", 'Automation']
 
-croppa:
+cropps:
   name: Automation of Downstream Plant Transformation
   excerpt: "Streamlined plant tissue transfer with 24/7 gantry system to reduce labor in plant biotech."
   stack: ["Arduino", "MachineLearning", "Python"]
