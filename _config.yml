@@ -40,8 +40,8 @@ jekyll-minifier:
 
 extlinks:
   attributes: { rel: nofollow noopener noreferrer, target: _blank }
-  rel_include: [ "l.gourav.sh" ]
-  rel_exclude: [ "gourav.sh", "github.com", "genicsblog.com" ]
+  rel_include: [ "l.prestonwhaley.github.io" ]
+  rel_exclude: [ "prestonwhaley.github.io", "github.com" ]
 
 include:
   - _pages
