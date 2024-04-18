@@ -1,8 +1,6 @@
-# [My portfolio website](https://gourav.sh)
+# [My portfolio website](https://prestonwhaley.github.io/)
 
 This is a minimal portfolio website built using Jekyll with HTML, TailwindCSS, JavaScript and Ruby (for a few custom plugins).
-
-The website is generated using [github actions](https://github.com/gouravkhunger/portfolio/blob/jekyll/.github/workflows/publish-site.yml) and served via the [gh-pages](https://github.com/gouravkhunger/portfolio/tree/gh-pages) branch.
 
 Here are the demo pictures of how the portfolio looks like:
 
