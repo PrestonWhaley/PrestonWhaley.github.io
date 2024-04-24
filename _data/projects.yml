@@ -9,9 +9,9 @@ cropps:
   stack: ["Arduino", "MachineLearning", "Python"]
 
 eos:
-  name: Embedded Operating System
-  excerpt: "Design of a microcontroller based system using embedded Linux."
-  stack: ["Embedded Systems", "Linux", "Python", "RaspberryPi"]
+  name: LightTrace Mirror
+  excerpt: "Design of an interactive embedded operating system featuring real-time human segmentation and gesture recognition for creative expression through an LED display. "
+  stack: ["Embedded Systems", "Linux", "Python", "Computer Vision"]
 
 skylift:
   name: IoT Enabled UTM System

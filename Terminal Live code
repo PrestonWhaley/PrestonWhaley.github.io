@@ -1,0 +1,5 @@
+bundle exec jekyll serve --livereload
+
+git add .
+git commit -m "Notes"
+git push origin jekyll 
