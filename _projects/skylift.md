@@ -4,6 +4,10 @@ hasThumbnail: true
 visit:
   - anchorText: "Visit project documentation"
     link: "https://209d1cca-d099-49f8-b449-7fd58bb5305e.filesusr.com/ugd/b0cd45_2d2c66592ef9448b9a034cfbe9057e2d.pdf"
+
+visit:
+  - anchorText: "Visit Research Publication"
+    link: "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13034/130340C/IoT-enabled-unmanned-traffic-management-system-with-dynamic-vision-based/10.1117/12.3014009.full"
 ---
 
 <table>
