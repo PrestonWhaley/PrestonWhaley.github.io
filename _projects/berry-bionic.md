@@ -7,7 +7,7 @@ visit:
 
 ---
 
-##### <span style="font-weight: bold; color: #000080;">Contributors</span>: <span style="font-style: italic;">Preston Whaley, Kunal Kumar, Phyo Sone, Yuan Jiang, Ganqing Hu</span>
+##### <span style="font-weight: bold; color: #000080;">Contributors</span>: <span style="font-style: italic;">Preston Whaley, Kunal Kumar</span>
 
 ## ■ INTRODUCTION
 <div style="text-align: justify;">
