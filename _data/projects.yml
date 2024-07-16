@@ -9,7 +9,7 @@ cropps:
   stack: ["Arduino", "MachineLearning", "Python"]
 
 eos:
-  name: LightTrace Mirror
+  name: Vision Matrix
   excerpt: "Design of an interactive embedded operating system featuring real-time human segmentation and gesture recognition for creative expression through an LED display. "
   stack: ["Embedded Systems", "Linux", "Python", "Computer Vision"]
 
