@@ -76,14 +76,5 @@ visit:
       <img src="/assets/images/projects/IoT.jpg" alt="Alt text for another image" title="Title for another image" />
     </td>
   </tr>
-
-  <tr>
-  <td colspan="2" style="padding: 20px; text-align: center;"> <!-- Use colspan to span across columns if needed -->
-    <!-- Paste your iframe code here -->
-    <iframe src="https://cornellprod-my.sharepoint.com/personal/pw463_cornell_edu/_layouts/15/Doc.aspx?sourcedoc={48117fcc-1573-44c1-b194-74b97a4bd867}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="752px" height="376px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
-    <p style="text-align: left; margin-top: 10px;">Opening in full screen provides a better viewing experience.</p>
-  </td>
-</tr>
-
 </table>
 
