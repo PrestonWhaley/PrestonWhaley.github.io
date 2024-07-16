@@ -26,7 +26,7 @@
 - company:
     name: "Cornell University"
     logo: "/assets/images/logos/cornell.png"
-    description: "I am currently pursuing a M.Eng degree in Mechanical Engineering with a concentration in robotics."
+    description: "I recently graduated with an M.Eng degree in Mechanical Engineering and concentration in robotics."
   positions:
     - name: "Mechanical Engineering - Robotics Concentration"
       type: "M.Eng"
