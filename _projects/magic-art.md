@@ -6,7 +6,7 @@ hasThumbnail: true
 
 ## ■ INTRODUCTION
 <div style="text-align: justify;">
-The Magic Art autonomous draing device is an innovative 2-D drawing device designed to replicate images from JPEG or PNG formats with high precision and versatility. Featuring a robotic arm design, this plotter can be mounted on most flat surfaces and utilizes various writing utensils to create detailed artwork. The device includes 3-D printed arms and is powered by stepper motors and a servo motor for precise control of the writing instrument.
+The Magic Art autonomous drawing device is an innovative 2-D drawing device designed to replicate images from JPEG or PNG formats with high precision and versatility. Featuring a robotic arm design, this plotter can be mounted on most flat surfaces and utilizes various writing utensils to create detailed artwork. The device includes 3-D printed arms and is powered by stepper motors and a servo motor for precise control of the writing instrument.
 
 </div>
 
