@@ -13,6 +13,11 @@ eos:
   excerpt: "Design of an interactive embedded operating system featuring real-time human segmentation and gesture recognition for creative expression through an LED display. "
   stack: ["Embedded Systems", "Linux", "Python", "Computer Vision"]
 
+magic-art:
+  name: Magic Art
+  excerpt: "Design of an autonomous robot capable of drawing images"
+  stack: ["Embedded Systems", "Linux", "Python", "Motor Control"]
+
 skylift:
   name: IoT Enabled UTM System
   excerpt: "Developed an IoT-enabled Unmanned Traffic Management system integrating air and ground vehicles for safe, efficient package delivery using advanced navigation and machine learning."
