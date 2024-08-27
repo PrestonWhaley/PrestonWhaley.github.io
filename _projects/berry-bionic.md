@@ -4,6 +4,9 @@ hasThumbnail: true
 visit: 
   - anchorText: "Visit project rules"
     link: "https://docs.google.com/document/d/1JPMAodRuwTGvhz5UEUWVJHI-WIk5GcbBl3c8BVmr7d0/edit#heading=h.frav6te4ac28"
+  
+  - anchorText: "Visit Cornell News"
+    link: "https://www.engineering.cornell.edu/news/strawberry-pruning-robot-put-test-national-competition"
 
 ---
 
